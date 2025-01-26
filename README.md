@@ -5,63 +5,67 @@ Welcome to my GitHub! I am **Aziz Zouari**, an **Industrial Electronics Engineer
 ## 🚀 About Me
 - **🎓 Education:** Industrial Electronics Engineering Student
 - **💻 Expertise:**
-  - Embedded Systems Development (Raspberry Pi, PIC, Arduino)
+  - Embedded Systems Development (STM32, Raspberry Pi, PIC, Arduino)
   - IoT Applications and Automation
   - PCB Design & Hardware Optimization
 - **🌍 Location:** Tunisia
 
 ## 🎯 Current Projects
+-Dual-Card Data Transmission System (STM32/UART)
 - Digital Sound Processing
 - Safety Monitoring Systems
 
 ## 💡 Skills
-- **Programming Languages:** Python, C, MATLAB
+- **Programming Languages:** Embedded C, C++, Python, MATLAB
 - **Embedded Systems:** Raspberry Pi, PIC16F877A, Arduino, STM32
 - **IoT Platforms:** Blynk IoT, Remote System Management (SSH, VNC)
-- **Development Tools:** MATLAB App Designer, Ubuntu/Linux
+- **Development Tools:** STM32CubeIDE, IAR Workbench, MATLAB App Designer, Ubuntu/Linux
 
-## Certifications
-- Introduction to Prompt Engineering for Generative AI
 
 ## 🌟 Featured Projects
 
-### Audio Processing Panel
-Developed a Python-based user interface for digital audio processing. Features include:
-- Voice recording
-- Spectral analysis
-- Noise removal
-- Compression and equalization
-- Audio classification (Jazz/Metal/HiP-Hop...)
-- Text-to-Speech (TTS) synthesis
+### 🔁 Dual-Card Data Transmission System (STM32/UART)
+**Real-time embedded communication system** featuring two STM32 boards with interrupt-driven architecture:
+- **📤 Transmitter Card**
+  - ADC conversion with potentiometer input
+  - Smart LED control based on sensor values
+  - Interrupt-driven UART transmission
+  - Error detection with red LED indicator
+  - Background blue LED blinking (1000ms)
 
-This project showcases my expertise in Python programming and audio signal processing.
+- **📥 Receiver Card**  
+  - UART data reception with interrupt handling
+  - LED state mirroring from transmitter
+  - Fast background LED blinking (250ms)
+  - Data validation and error handling
 
-### Smart Air Conditioner Controller
-Designed a Python-based system to automate server room air conditioning:
-- Utilized a Raspberry Pi and DHT22 sensors for temperature monitoring and control.
-- Simulated actuator functionality using LEDs.
+**Tech Stack:** `STM32CubeIDE` `Embedded C` `UART Protocol` `ADC` `Interrupt Handling`
 
-### Temperature and Gas Detector 🚨
-An Arduino-based safety monitoring system that:
-- **Features:**
-  - Monitors ambient temperature.
-  - Detects harmful gases like LPG, methane, or carbon monoxide.
-  - Alerts via an LED and buzzer when thresholds are exceeded.
-- **Components Used:**
-  - Arduino board (e.g., Uno, Nano)
-  - Temperature sensor (e.g., LM35, DHT11, DHT22)
-  - Gas sensor (e.g., MQ-2, MQ-5, MQ-7)
-  - LEDs, buzzer, resistors, and connecting wires.
 
-Ideal for safety monitoring in homes, offices, and workshops.
+### 🎚️ Audio Processing Panel
+**Python-based DSP interface** featuring:
+- Voice recording & spectral analysis
+- Advanced noise removal algorithms
+- Audio classification (Jazz/Metal/Hip-Hop)
+- Text-to-Speech synthesis
+
+### ❄️ Smart Air Conditioner Controller
+**Raspberry Pi automation system** with:
+- DHT22 environmental monitoring
+- LED-based actuator simulation
+- Python control logic
+
+### 🌡️ Temperature & Gas Detector 🚨
+**Arduino safety system** featuring:
+- Real-time gas/temperature monitoring
+- Multi-sensor integration (MQ-2/LM35)
+- Visual/audible alert system
 
 ---
 
-Feel free to explore my repositories and connect with me for collaboration opportunities!
-
+## 📞 Let's Connect
 - **LinkedIn**: [Aziz Zouari](https://www.linkedin.com/in/aziz-zouari-b2835b284/)  
-- **Email**: [Azizzouari@eniso.u-sousse.tn](Azizzouari@eniso.u-sousse.tn)
----
+- **Email**: [Azizzouari@eniso.u-sousse.tn](mailto:Azizzouari@eniso.u-sousse.tn)
 
-💡 *“Innovation is seeing what everybody has seen and thinking what nobody has thought.”*  
-Feel free to explore my repositories, contribute, or collaborate! 🚀
+💡 *"Innovation is seeing what everybody has seen and thinking what nobody has thought."*  
+🚀 **Explore my repositories and let's collaborate on future embedded systems projects!**
