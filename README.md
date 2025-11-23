@@ -43,6 +43,10 @@ I'm a passionate **Industrial Electronics Engineering student** from **Tunisia**
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00A67E?style=for-the-badge&logo=freertos&logoColor=white)
+![Yocto](https://img.shields.io/badge/Yocto-blue?style=for-the-badge&logo=yoctoproject&logoColor=white)
+![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Development Tools & IDEs
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
@@ -53,6 +57,8 @@ I'm a passionate **Industrial Electronics Engineering student** from **Tunisia**
 ### Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Communication Protocols
 ![CAN](https://img.shields.io/badge/CAN-000000?style=for-the-badge)
@@ -66,6 +72,8 @@ I'm a passionate **Industrial Electronics Engineering student** from **Tunisia**
 
 ### IoT & Cloud Platforms
 ![Blynk](https://img.shields.io/badge/Blynk-00AEEF?style=for-the-badge&logo=blynk&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?style=for-the-badge&logo=zigbee&logoColor=white)
 
 ### Automotive & ADAS Tools
 ![CANoe](https://img.shields.io/badge/CANoe-009639?style=for-the-badge&logo=vector&logoColor=white)
@@ -78,6 +86,8 @@ I'm a passionate **Industrial Electronics Engineering student** from **Tunisia**
 ### Hardware & PCB Design
 ![PCB Design](https://img.shields.io/badge/PCB_Design-00979D?style=for-the-badge)
 ![Hardware Optimization](https://img.shields.io/badge/HW_Optimization-FF6F00?style=for-the-badge)
+![Altium](https://img.shields.io/badge/Altium-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![KiCAD](https://img.shields.io/badge/KiCAD-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 
 ---
 
