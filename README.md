@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Aziz Zouari
-### Embedded Systems Engineer | Real-Time Systems Developer
+### ### Embedded Systems Engineer | Automotive & ADAS | Real-Time Systems Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-zouari-b2835b284/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Azizzouari@eniso.u-sousse.tn)
@@ -18,6 +18,7 @@
 I'm a passionate **Industrial Electronics Engineering student** from **Tunisia** 🇹🇳, specializing in **Embedded Systems Development**. My work bridges the gap between hardware and software, creating intelligent solutions for real-world applications.
 
 🔧 **Currently Working On:**
+- **Real-Time ADAS System** for lane alignment & distance monitoring (Yocto Linux + PREEMPT_RT)
 - Real-time communication systems (STM32/UART)
 - Digital signal processing interfaces
 - IoT automation and smart monitoring systems
@@ -54,6 +55,9 @@ I'm a passionate **Industrial Electronics Engineering student** from **Tunisia**
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ### Communication Protocols
+![CAN](https://img.shields.io/badge/CAN-000000?style=for-the-badge)
+![CAN-FD](https://img.shields.io/badge/CAN--FD-FF6B00?style=for-the-badge)
+![LIN](https://img.shields.io/badge/LIN-4CAF50?style=for-the-badge)
 ![UART](https://img.shields.io/badge/UART-000000?style=for-the-badge)
 ![SPI](https://img.shields.io/badge/SPI-000000?style=for-the-badge)
 ![I2C](https://img.shields.io/badge/I2C-000000?style=for-the-badge)
@@ -63,6 +67,14 @@ I'm a passionate **Industrial Electronics Engineering student** from **Tunisia**
 ### IoT & Cloud Platforms
 ![Blynk](https://img.shields.io/badge/Blynk-00AEEF?style=for-the-badge&logo=blynk&logoColor=white)
 
+### Automotive & ADAS Tools
+![CANoe](https://img.shields.io/badge/CANoe-009639?style=for-the-badge&logo=vector&logoColor=white)
+![AUTOSAR](https://img.shields.io/badge/AUTOSAR-0052CC?style=for-the-badge)
+![UDS](https://img.shields.io/badge/UDS-FF6B00?style=for-the-badge)
+![CAPL](https://img.shields.io/badge/CAPL-000000?style=for-the-badge)
+![Yocto](https://img.shields.io/badge/Yocto-0C54C2?style=for-the-badge&logo=yoctoproject&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge)
+
 ### Hardware & PCB Design
 ![PCB Design](https://img.shields.io/badge/PCB_Design-00979D?style=for-the-badge)
 ![Hardware Optimization](https://img.shields.io/badge/HW_Optimization-FF6F00?style=for-the-badge)
@@ -70,6 +82,21 @@ I'm a passionate **Industrial Electronics Engineering student** from **Tunisia**
 ---
 
 ## 🚀 Featured Projects
+
+### 🚗 Real-Time ADAS System (Lane Alignment & Distance Monitoring)
+**Real-time Advanced Driver Assistance System** on Yocto Linux with PREEMPT_RT kernel
+
+**🔹 Key Features:**
+- 🎯 Lane alignment detection using OpenCV/YOLO
+- 📎 Real-time distance estimation for obstacle avoidance
+- ⚡ PREEMPT_RT kernel for deterministic real-time performance
+- 📡 STM32 motor ECU control via CAN bus
+- 🧪 Validation and testing with Vector CANoe
+- 👁️ Computer vision pipeline optimized for embedded systems
+
+**🛠️ Tech Stack:** `Yocto Linux` `PREEMPT_RT` `OpenCV` `YOLO` `CAN` `STM32` `FreeRTOS` `Vector CANoe`
+
+---
 
 ### 📡 [Dual-Card Data Transmission System (STM32/UART)](https://github.com/Azizzr02/Dual-Card-Data-Transmission-System-STM32-UART-)
 **Real-time embedded communication system** featuring interrupt-driven architecture
