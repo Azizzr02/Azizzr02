@@ -97,12 +97,10 @@ I'm a passionate **Industrial Electronics Engineering student** from **Tunisia**
 **🔹 Key Features:**
 - 🎯 Lane alignment detection using OpenCV/YOLO
 - 📎 Real-time distance estimation for obstacle avoidance
-- ⚡ PREEMPT_RT kernel for deterministic real-time performance
 - 📡 STM32 motor ECU control via CAN bus
-- 🧪 Validation and testing with Vector CANoe
 - 👁️ Computer vision pipeline optimized for embedded systems
 
-**🛠️ Tech Stack:** `Yocto Linux` `PREEMPT_RT` `OpenCV` `YOLO` `CAN` `STM32` `FreeRTOS` `Vector CANoe`
+**🛠️ Tech Stack:** `Yocto Linux`  `OpenCV` `YOLO` `CAN` `STM32` 
 
 ---
 
