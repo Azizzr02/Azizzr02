@@ -1,4 +1,4 @@
-<h2 align="center">عزيز الزواري (Aziz Zouari)</h2>
+<h2 align="center"> Aziz Zouari</h2>
 
 - 🎓 Industrial Electronics engineering graduate from the National Engineering School of Sousse (ENISo).
 - 🔭 I build STM32 firmware, embedded Linux gateways, and IoT systems.
