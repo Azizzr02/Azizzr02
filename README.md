@@ -1,5 +1,7 @@
 <h2 align="center"> Aziz Zouari</h2>
 
+[**Embedded Systems Portfolio**](https://aziz-zouari-portfolio.chalky-sole-6132.chatgpt.site/)
+
 - 🎓 Industrial Electronics engineering graduate from the National Engineering School of Sousse (ENISo).
 - 🔭 I build STM32 firmware, embedded Linux gateways, and IoT systems.
 - 📚 Currently learning [Zephyr RTOS](https://github.com/Azizzr02/zephyr-course) through devicetree, Kconfig, and unit-testing exercises.
